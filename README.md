@@ -1,2 +1,2 @@
 # PHPWebApp
-Creating web application using PHP
+Creating web application using PHP and HTML5.
